@@ -1,17 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1,  Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1, Visit X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1, Jasmin TV
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
+
 #EXTINF:-1,Barely legal
 http://78.58.133.179:28000/play/a00l/index.m3u8
 #EXTINF:-1,Playboy TV
 http://78.58.133.179:28000/play/a190/index.m3u8
-#EXTINF:-1,Playboy TV MEO
-http://45.153.35.221:8000/play/099
-#EXTINF:-1,Playboy TV NOS
-http://45.153.35.221:8000/play/201
 #EXTINF:-1,Venus
 http://45.225.93.154:8000/play/a02d
-#EXTINF:-1,Hustler
-http://79.115.140.86:18000/play/a01i
 #EXTINF:-1,Wydarzenia24 HD
 http://176.102.89.77:7654/udp/239.239.3.166:1234
 #EXTINF:-1,Adult Channel
@@ -30,18 +31,8 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Jasmin TV www.achoapps.com
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,BRAZZERS 1 www.achoapps.com
-http://static.brazzers.com/scenes/7119/180sec.flv
-#EXTINF:-1,BRAZZERS 2 www.achoapps.com
-http://static.brazzers.com/scenes/5457/180sec.flv
-#EXTINF:-1,BRAZZERS 3 www.achoapps.com
-http://static.brazzers.com/scenes/3327/180sec.flv
-#EXTINF:-1,BRAZZERS 4 www.achoapps.com
-http://static.brazzers.com/scenes/3328/180sec.flv
 #EXTINF:-1,XXX-Babes 19
 http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
-
-
 #EXTINF:-1, Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
 #EXTINF:-1,VISIT-X TV (18+)
@@ -58,12 +49,3 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w721870398.m3u
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1, Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
-
-#EXTINF:-1,ADULTOS - PPV 06
-http://50.7.66.234:8080/alexi/1234/3466
-#EXTINF:-1,ADULTOS - PPV 11
-http://50.7.66.234:8080/alexi/1234/7128
-#EXTINF:-1,DUSK
-http://81.204.1.224:9981/play/a05w
-#EXTINF:-1,Evil Angel
-http://81.204.1.224:9981/play/a05r
