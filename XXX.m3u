@@ -15,6 +15,11 @@ http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1,Hustler HD [18+]
 http://193.33.240.8:80/hustler_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX | BLUE HUSTLER TV" tvg-logo="https://imgur.com/rm5eJGH" group-title="Adult",XXX | BLUE HUSTLER TV
+219	http://appleiptv.com:80/0357/0357/81833
+
+
 #EXTINF:-1,DUSK TV [18+]
 http://194.163.179.246/slovenci/porno/dusktv.m3u8
 
