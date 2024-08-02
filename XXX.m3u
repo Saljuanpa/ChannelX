@@ -2,7 +2,8 @@
 http://78.130.250.2:8023/play/a006/index.m3u8
 #EXTINF:-1,Penthouse 1 HD CZ
 http://78.130.250.2:8023/play/a005/index.m3u8
-
+#EXTINF:-1,Venus
+http://190.109.176.90:8000/play/a08h/index.m3u8
 
 #EXTINF:-1,fetish 1
 http://live.redtraffic.xyz/fetish.m3u8
